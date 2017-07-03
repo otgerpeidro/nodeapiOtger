@@ -1,0 +1,22 @@
+# Ignoramos la carpeta node_modules
+node_modules/
+
+# Compilados y ejecutables
+*.class
+*.dll
+*.exe
+
+#Archivos comprimidos
+*.dmg
+*.zip
+
+
+#Logs y BBDD
+*.log
+*.sql
+
+# Archivos generados por SSOO
+.DS_Store
+Thumbs.db
+._*
+
